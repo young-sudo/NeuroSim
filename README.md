@@ -2,7 +2,7 @@
 
 *by Younginn Park*
 
-Sample simulations of selected neuroinformatics models
+Sample simulations of selected neuroinformatics models, which form the theoretical foundation for understanding biological computation and provided the initial inspiration for artificial neural networks (ANNs).
 
 ## Contents
 1. Integrate-and-Fire (IF) model
