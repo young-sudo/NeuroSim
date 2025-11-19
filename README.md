@@ -77,4 +77,8 @@ $$
   </figure>
 </div>
 
-_(more details about the models and the parameters in each of the project folders)_
+<br>
+<br>
+<br>
+
+_More details about the models and the parameters in each of the project folders_
