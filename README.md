@@ -53,7 +53,7 @@ $$
   <figure>
     <img src="img/hh.png" alt="hh" width="500"/>
     <br>
-    <figcaption style="text-align:center;"><em>Figure 2. Example of HH model simulation output</em></figcaption>
+    <figcaption style="text-align:center;"><em>Figure 2. Example of HH model simulation output with a constant input current</em></figcaption>
   </figure>
 </div>
 
